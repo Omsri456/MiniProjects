@@ -1,1 +1,1 @@
-https://github.com/Omsri456/MiniProjects/new/main/docker-compose
+https://github.com/Omsri456/MiniProjects/tree/main/docker-compose
